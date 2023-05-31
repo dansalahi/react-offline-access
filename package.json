@@ -1,5 +1,6 @@
 {
   "name": "react-offline-access",
+  "homepage": "https://dansalahi.github.io/react-offline-access",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
